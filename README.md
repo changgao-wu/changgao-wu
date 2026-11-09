@@ -2,7 +2,7 @@
 
 **Affiliation:** Zhejiang Sci-Tech University (ZSTU)
 
-**Email:** 2025220603069@mails.zstu.edu.cn
+**Email:** 2514838129@qq.com
 ## Research Interests
 - Computer Vision
 - Deep Learning
